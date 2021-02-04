@@ -1,0 +1,195 @@
+age_group,behaviour,ethnicity,histology_code_idc_o_3,method_of_diagnosis,race,report_source,sex,stage_of_disease
+20 to 24,Malignant,Non-Hispanic (including Unknown),9811,Positive Histology,White,Hospital or Clinic,Female,Distant
+40 to 44,Malignant,Non-Hispanic (including Unknown),9811,Positive Histology,White,Hospital or Clinic,Male,Distant
+40 to 44,Malignant,Non-Hispanic (including Unknown),9811,Positive Histology,Other,Hospital or Clinic,Male,Distant
+45 to 49,Malignant,Hispanic,9811,Positive Histology,White,Hospital or Clinic,Male,Distant
+60 to 64,Malignant,Non-Hispanic (including Unknown),9811,Positive Histology,White,Hospital or Clinic,Male,Distant
+70 to 74,Malignant,Non-Hispanic (including Unknown),9811,Positive Histology,White,Hospital or Clinic,Female,Distant
+20 to 24,Malignant,Hispanic,9826,Positive Histology,White,Hospital or Clinic,Female,Distant
+20 to 24,Malignant,Non-Hispanic (including Unknown),9826,Positive Histology,White,Hospital or Clinic,Male,Distant
+25 to 29,Malignant,Non-Hispanic (including Unknown),9826,Positive Histology,Black,Hospital or Clinic,Male,Distant
+35 to 39,Malignant,Hispanic,9826,Positive Histology,White,Hospital or Clinic,Male,Distant
+40 to 44,Malignant,Hispanic,9826,Positive Histology,White,Hospital or Clinic,Male,Distant
+45 to 49,Malignant,Hispanic,9826,Positive Histology,White,Hospital or Clinic,Female,Distant
+50 to 54,Malignant,Non-Hispanic (including Unknown),9826,Positive Histology,White,Hospital or Clinic,Male,Distant
+20 to 24,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+20 to 24,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+20 to 24,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+30 to 34,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+35 to 39,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+45 to 49,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+45 to 49,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+45 to 49,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+50 to 54,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+50 to 54,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Black,Hospital or Clinic,Male,Distant
+55 to 59,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology & Immunophenotyping AND/OR Positive Genetic Studies,White,Hospital or Clinic,Female,Distant
+55 to 59,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Black,Hospital or Clinic,Male,Distant
+55 to 59,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+55 to 59,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+60 to 64,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Black,Hospital or Clinic,Female,Distant
+60 to 64,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Other,Hospital or Clinic,Male,Distant
+60 to 64,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+65 to 69,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology & Immunophenotyping AND/OR Positive Genetic Studies,White,Hospital or Clinic,Female,Distant
+65 to 69,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+65 to 69,Malignant,Non-Hispanic (including Unknown),9835,Unknown Whether or Not Microscopically Confirmed,White,Death Certificate Only,Male,Distant
+70 to 74,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+70 to 74,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology & Immunophenotyping AND/OR Positive Genetic Studies,White,Hospital or Clinic,Female,Distant
+70 to 74,Malignant,Non-Hispanic (including Unknown),9835,"Positive Exfoliative Cytology, no Positive Histology",White,Hospital or Clinic,Female,Distant
+70 to 74,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+75 to 79,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+75 to 79,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+80 to 84,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+80 to 84,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+80 to 84,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+85+,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+85+,Malignant,Non-Hispanic (including Unknown),9835,Clinical Diagnosis Only,White,Hospital or Clinic,Female,Distant
+85+,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+20 to 24,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+20 to 24,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+25 to 29,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+25 to 29,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+25 to 29,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+30 to 34,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+30 to 34,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology & Immunophenotyping AND/OR Positive Genetic Studies,White,Other Hospital Out-Patient Units/Surgery,Female,Distant
+40 to 44,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+40 to 44,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+45 to 49,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+50 to 54,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+50 to 54,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+55 to 59,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+55 to 59,Malignant,Non-Hispanic (including Unknown),9836,"Positive Exfoliative Cytology, no Positive Histology",White,Hospital or Clinic,Male,Distant
+55 to 59,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,Black,Hospital or Clinic,Female,Distant
+55 to 59,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,Other,Hospital or Clinic,Female,Distant
+55 to 59,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+60 to 64,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+60 to 64,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+65 to 69,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+65 to 69,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+80 to 84,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+20 to 24,Malignant,Non-Hispanic (including Unknown),9837,Positive Histology,White,Hospital or Clinic,Male,Distant
+20 to 24,Malignant,Non-Hispanic (including Unknown),9837,Positive Histology,Black,Hospital or Clinic,Male,Distant
+25 to 29,Malignant,Non-Hispanic (including Unknown),9837,Positive Histology,White,Hospital or Clinic,Female,Distant
+45 to 49,Malignant,Non-Hispanic (including Unknown),9837,Positive Histology,Black,Hospital or Clinic,Male,Distant
+55 to 59,Malignant,Non-Hispanic (including Unknown),9837,Positive Histology,White,Hospital or Clinic,Female,Distant
+70 to 74,Malignant,Non-Hispanic (including Unknown),9837,Positive Histology,White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9811,Positive Histology,White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9811,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9811,Positive Histology,White,Hospital or Clinic,Male,Distant
+10 to 14,Malignant,Hispanic,9811,"Positive Histology & Immunophenotyping, AND/OR Positive Genetic Studies",White,Hospital or Clinic,Male,Distant
+10 to 14,Malignant,Hispanic,9811,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9826,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Hispanic,9826,Positive Histology,White,Hospital or Clinic,Male,Distant
+15 to 19,Malignant,Hispanic,9826,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Black,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Black,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,"Positive Exfoliative Cytology, No Positive Histology",White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,"Positive Exfoliative Cytology, No Positive Histology",White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,"Positive Exfoliative Cytology, No Positive Histology",White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,"Positive Exfoliative Cytology, No Positive Histology",White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Black,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,"Positive Exfoliative Cytology, No Positive Histology",White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Black,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Other,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Unknown,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,"Positive Histology & Immunophenotyping, AND/OR Positive Genetic Studies",White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Hispanic,9835,Positive Histology,Unknown,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Unknown,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9835,"Positive Exfoliative Cytology, No Positive Histology",White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Hispanic,9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Hispanic,9835,"Positive Histology & Immunophenotyping, AND/OR Positive Genetic Studies",White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9835,Unknown Whether or Not Microscopically Confirmed,White,Death Certificate Only,Male,Distant
+10 to 14,Malignant,Non-Hispanic (including Unknown),9835,"Positive Exfoliative Cytology, No Positive Histology",White,Hospital or Clinic,Female,Distant
+10 to 14,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Black,Hospital or Clinic,Male,Distant
+10 to 14,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Other,Hospital or Clinic,Female,Distant
+10 to 14,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Female,Distant
+10 to 14,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,Unknown,Hospital or Clinic,Male,Distant
+10 to 14,Malignant,Hispanic,9835,"Positive Exfoliative Cytology, No Positive Histology",Unknown,Other Hospital Out-Patient Units/Surgery,Male,Distant
+10 to 14,Malignant,Hispanic,9835,"Positive Exfoliative Cytology, No Positive Histology",Unknown,Hospital or Clinic,Male,Distant
+15 to 19,Malignant,Non-Hispanic (including Unknown),9835,"Positive Exfoliative Cytology, No Positive Histology",Unknown,Hospital or Clinic,Female,Distant
+15 to 19,Malignant,Non-Hispanic (including Unknown),9835,"Positive Exfoliative Cytology, No Positive Histology",White,Hospital or Clinic,Male,Distant
+15 to 19,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+15 to 19,Malignant,Non-Hispanic (including Unknown),9835,Positive Histology,White,Hospital or Clinic,Male,Distant
+< 1,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,Other,Hospital or Clinic,Female,Distant
+< 1,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Hispanic,9836,Positive Histology,Unknown,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,Black,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,"Positive Exfoliative Cytology, No Positive Histology",Black,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,"Positive Exfoliative Cytology, No Positive Histology",White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,Black,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,Black,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,Other,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Hispanic,9836,"Positive Histology & Immunophenotyping, AND/OR Positive Genetic Studies",White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,"Positive Histology & Immunophenotyping, AND/OR Positive Genetic Studies",White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,"Positive Histology & Immunophenotyping, AND/OR Positive Genetic Studies",Black,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,Black,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,Black,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+10 to 14,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+10 to 14,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+10 to 14,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+10 to 14,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Female,Distant
+15 to 19,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+15 to 19,Malignant,Hispanic,9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+15 to 19,Malignant,Non-Hispanic (including Unknown),9836,Positive Histology,White,Hospital or Clinic,Male,Distant
+< 1,Malignant,Non-Hispanic (including Unknown),9837,"Positive Exfoliative Cytology, No Positive Histology",White,Hospital or Clinic,Female,Distant
+1 to 4,Malignant,Hispanic,9837,Positive Histology,Black,Hospital or Clinic,Male,Distant
+1 to 4,Malignant,Non-Hispanic (including Unknown),9837,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Hispanic,9837,Positive Histology,Unknown,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Hispanic,9837,Positive Histology,White,Hospital or Clinic,Male,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9837,Positive Histology,Black,Hospital or Clinic,Female,Distant
+5 to 9,Malignant,Non-Hispanic (including Unknown),9837,Positive Laboratory Test or Marker Study,White,Hospital or Clinic,Male,Distant
+10 to 14,Malignant,Hispanic,9837,Positive Histology,White,Hospital or Clinic,Male,Distant
